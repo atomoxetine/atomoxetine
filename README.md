@@ -27,7 +27,7 @@
 
 <div align="center">
   <img width="480px" src="https://github-readme-stats.vercel.app/api?username=atomoxetine&show_icons=true&theme=transparent&hide_border=true">
-  <img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atomoxetine&theme=transparent&hide=html,css,handlebars&layout=donut&hide_border=true">
+  <img width="298px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atomoxetine&theme=transparent&hide=html,css,handlebars&layout=donut&hide_border=true">
 </div>
 <div align="center">
   <img width="400px" src="https://streak-stats.demolab.com/?user=atomoxetine&hide_border=true&theme=transparent">
