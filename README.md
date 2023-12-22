@@ -12,13 +12,14 @@
 </div>
 <br><br>
 
-### ⭐ A few facts
+### ⭐ A few things about me
 
 - 💊 When administered orally, my absolute bioavailability is of 63% for extensive metabolizers and 94% for poor metabolizers
 - 😀 Pronouns: `she/her`
 - 🇧🇷 I'm from [São Paulo, Brasil](https://en.wikipedia.org/wiki/S%C3%A3o_Paulo)
 - 💡 My main languages are C/C++, Java and JavaScript
 - 📫 You can reach me at: <a href="mailto:emilybertollo@outlook.com">emilybertollo@outlook.com</a>
+- 📺 My favourite show is Mahou Shoujo Madoka★Magica
 
 #
 
