@@ -35,3 +35,10 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=atomoxetine&theme=monokai&margin-w=14&margin-w=15&no-bg=true&no-frame=true&">
 </div>
+
+#
+
+### 👥 Meet my Friends
+
+- [oestradiol](https://github.com/oestradiol/)
+- [aripiprazole](https://github.com/aripiprazole/)
