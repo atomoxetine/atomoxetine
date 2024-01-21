@@ -26,11 +26,11 @@
 ### 📊 Statistics
 
 <div align="center">
-  <img width="480px" src="https://github-readme-stats-five-rosy-65.vercel.app/api?username=atomoxetine&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117">
-  <img width="298px" src="https://github-readme-stats-five-rosy-65.vercel.app/api/top-langs?username=atomoxetine&theme=midnight-purple&layout=compact&hide_border=true&langs_count=10&exclude_repo=github-readme-streak-stats&bg_color=0d1117">
+  <img width="440px" src="https://github-readme-stats-five-rosy-65.vercel.app/api?username=atomoxetine&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117">
+  <img width="273px" src="https://github-readme-stats-five-rosy-65.vercel.app/api/top-langs?username=atomoxetine&theme=midnight-purple&layout=compact&hide_border=true&langs_count=10&exclude_repo=github-readme-streak-stats&bg_color=0d1117">
 </div>
 <div align="center">
-  <a width="400px" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ecru-phi.vercel.app?user=atomoxetine&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=550&background=EB545400" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ecru-phi.vercel.app?user=atomoxetine&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=550&background=EB545400" alt="GitHub Streak" /></a>
 </div>
 <div align="center">
   <img src="https://github-profile-trophy-omega.vercel.app/?username=atomoxetine&theme=darkhub&margin-w=14&margin-w=15&no-bg=true&no-frame=true">
