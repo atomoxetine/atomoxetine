@@ -41,7 +41,7 @@
 ### 💻 Experiences
 
 ##### Languages
-C, C++, Rust, Kotlin, Java, Javascript, Typescript, Lua, C# HTML, CSS, SQL, PHP
+C, C++, Rust, Kotlin, Java, Javascript, Typescript, Lua, C#, HTML, CSS, SQL, PHP
 
 ##### General Technologies
 Nodejs, React, Nextjs, Astro, Bootstrap, Tailwind CSS, MySQL, PostgreSQL, MongoDB, Redis, Spring, Ktor, Docker
