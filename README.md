@@ -12,12 +12,12 @@
 </div>
 <br><br>
 
-### ⭐ A few things about me
+### 💭 A few things about me
 
 - 💊 When administered orally, my absolute bioavailability is of 63% for extensive metabolizers and 94% for poor metabolizers
-- 😀 Pronouns: `she/her`
+- 🏳️‍⚧️ Pronouns: `she/her`
 - 🇧🇷 I'm from [São Paulo, Brasil](https://en.wikipedia.org/wiki/S%C3%A3o_Paulo)
-- 💡 My main languages are C/C++, Java and JavaScript
+- ♥️ My favourite languages are Rust and Kotlin
 - 📫 You can reach me at: <a href="mailto:emilybertollo@outlook.com">emilybertollo@outlook.com</a>
 - 📺 My favourite show is Mahou Shoujo Madoka★Magica
 
@@ -35,6 +35,16 @@
 <div align="center">
   <img src="https://github-profile-trophy-omega.vercel.app/?username=atomoxetine&theme=darkhub&margin-w=14&margin-w=15&no-bg=true&no-frame=true">
 </div>
+
+#
+
+### 💻 Experiences
+
+##### Languages
+C, C++, Rust, Kotlin, Java, Javascript, Typescript, Lua, C# HTML, CSS, SQL, PHP
+
+##### General Technologies
+Nodejs, React, Nextjs, Astro, Bootstrap, Tailwind CSS, MySQL, PostgreSQL, MongoDB, Redis, Spring, Ktor, Docker
 
 #
 
