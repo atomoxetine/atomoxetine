@@ -36,7 +36,7 @@
   <img src="https://github-readme-stats-five-rosy-65.vercel.app/api/wakatime?username=atomoxetine&theme=midnight-purple&hide_border=true&bg_color=00000000&layout=compact&custom_title=&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;WakaTime+Stats+(Since+Jan+23+2024)">
 </div>
 <div align="center">
-  <img src="https://github-profile-trophy-omega.vercel.app/?username=atomoxetine&theme=darkhub&margin-w=14&margin-w=15&no-bg=true&no-frame=true">
+  <img src="https://github-profile-trophy-omega.vercel.app/?username=atomoxetine&theme=darkhub&margin-w=14&margin-w=15&no-bg=true&no-frame=true&row=3&column=6">
 </div>
 
 
