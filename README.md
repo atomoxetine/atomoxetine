@@ -12,7 +12,7 @@
 </div>
 <br><br>
 <div>
-  <img src="https://github.com/atomoxetine/atomoxetine/assets/132525922/f39349dc-42a4-4659-96fb-64976a9574da" height="200" align="right">
+  <img src="https://github.com/atomoxetine/atomoxetine/assets/132525922/535e2bca-627c-4b47-8bfc-47ca85213d01" height="200" align="right">
   <div>
     
   ### 💭 A few things about me
