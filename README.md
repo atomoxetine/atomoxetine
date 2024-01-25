@@ -11,15 +11,21 @@
   Hii! My name is Emily and I'm a 19yo transgender girl from Brazil. I enjoy problem solving and I definitely have a thing for competitive programming, in which I was awarded a few prizes, so naturally I am very proficient at arriving at good solutions for intricate problems. I'm no goddess though, and I'm always willing to keep learning new things and I enjoy working with other people to achieve that goal :3
 </div>
 <br><br>
-
-### 💭 A few things about me
-
-- 💊 When administered orally, my absolute bioavailability is of 63% for extensive metabolizers and 94% for poor metabolizers
-- 🏳️‍⚧️ Pronouns: `she/her`
-- 🇧🇷 I'm from [São Paulo, Brasil](https://en.wikipedia.org/wiki/S%C3%A3o_Paulo)
-- ♥️ My favourite languages are Rust and Kotlin
-- 📫 You can reach me at: <a href="mailto:emilybertollo@outlook.com">emilybertollo@outlook.com</a>
-- 📺 My favourite show is Mahou Shoujo Madoka★Magica
+<div>
+  <img src="https://github.com/atomoxetine/atomoxetine/assets/132525922/37bae99c-a304-4aad-bf63-de847d1e970e" height="200" align="right">
+  <div>
+    
+  ### 💭 A few things about me
+  
+  - 💊 When administered orally, my absolute bioavailability is of 63% for extensive metabolizers and 94% for poor metabolizers
+  - 🏳️‍⚧️ Pronouns: `she/her`
+  - 🇧🇷 I'm from [São Paulo, Brasil](https://en.wikipedia.org/wiki/S%C3%A3o_Paulo)
+  - ♥️ My favourite languages are Rust and Kotlin
+  - 📫 You can reach me at: <a href="mailto:emilybertollo@outlook.com">emilybertollo@outlook.com</a>
+  - 📺 My favourite show is Mahou Shoujo Madoka★Magica
+    
+  </div>
+</div>
 
 #
 
@@ -35,6 +41,7 @@
 <div align="center">
   <img src="https://github-readme-stats-five-rosy-65.vercel.app/api/wakatime?username=atomoxetine&theme=midnight-purple&hide_border=true&bg_color=00000000&layout=compact&custom_title=&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;WakaTime+Stats+(Since+Jan+23+2024)">
 </div>
+
 <div align="center">
   <img src="https://github-profile-trophy-omega.vercel.app/?username=atomoxetine&theme=darkhub&margin-w=14&margin-w=15&no-bg=true&no-frame=true&row=3&column=6">
 </div>
@@ -48,6 +55,7 @@
 C, C++, Rust, Kotlin, Java, Javascript, Typescript, Lua, C#, HTML, CSS, SQL, PHP
 
 ##### General Technologies
+
 Nodejs, React, Nextjs, Astro, Bootstrap, Tailwind CSS, MySQL, PostgreSQL, MongoDB, Redis, Spring, Ktor, Docker
 
 #
