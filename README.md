@@ -4,7 +4,7 @@
 </h2>
 
 <div>
-  <img src="https://github.com/atomoxetine/atomoxetine/assets/132525922/fa109907-04cc-482c-8acb-b339d80e5c3c"
+  <img src="https://github.com/atomoxetine/atomoxetine/assets/132525922/01de90ef-785a-4457-8020-0ce8e2542327"
     height="170"
     align="left">
   <h3>🌟 About me</h3>
@@ -12,7 +12,7 @@
 </div>
 <br><br>
 <div>
-  <img src="https://github.com/atomoxetine/atomoxetine/assets/132525922/37bae99c-a304-4aad-bf63-de847d1e970e" height="200" align="right">
+  <img src="https://github.com/atomoxetine/atomoxetine/assets/132525922/f39349dc-42a4-4659-96fb-64976a9574da" height="200" align="right">
   <div>
     
   ### 💭 A few things about me
@@ -23,7 +23,7 @@
   - ♥️ My favourite languages are Rust and Kotlin
   - 📫 You can reach me at: <a href="mailto:emilybertollo@outlook.com">emilybertollo@outlook.com</a>
   - 📺 My favourite show is Mahou Shoujo Madoka★Magica
-    
+
   </div>
 </div>
 
@@ -32,6 +32,7 @@
 ### 📊 Statistics
 
 <div align="center">
+
   <img width="440px" src="https://github-readme-stats-five-rosy-65.vercel.app/api?username=atomoxetine&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&line_height=19&include_all_commits=true">
   <img width="273px" src="https://github-readme-stats-five-rosy-65.vercel.app/api/top-langs?username=atomoxetine&theme=midnight-purple&layout=compact&hide_border=true&langs_count=16&exclude_repo=github-readme-streak-stats&bg_color=00000000">
 </div>
@@ -41,6 +42,7 @@
 <div align="center">
   <img src="https://github-readme-stats-five-rosy-65.vercel.app/api/wakatime?username=atomoxetine&theme=midnight-purple&hide_border=true&bg_color=00000000&layout=compact&custom_title=&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;WakaTime+Stats+(Since+Jan+23+2024)">
 </div>
+
 
 <div align="center">
   <img src="https://github-profile-trophy-omega.vercel.app/?username=atomoxetine&theme=darkhub&margin-w=14&margin-w=15&no-bg=true&no-frame=true&row=3&column=6">
