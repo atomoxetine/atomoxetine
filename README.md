@@ -41,7 +41,7 @@
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ecru-phi.vercel.app?user=atomoxetine&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=550&background=00000000" alt="GitHub Streak" /></a>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats-five-rosy-65.vercel.app/api/wakatime?username=atomoxetine&theme=midnight-purple&hide_border=true&bg_color=00000000&layout=compact&custom_title=&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;&#10240;WakaTime+Stats+(Since+Jan+23+2024)">
+  <img src="https://github-readme-stats-five-rosy-65.vercel.app/api/wakatime?username=atomoxetine&theme=midnight-purple&hide_border=true&bg_color=00000000&layout=compact&custom_title=WakaTime+Stats+(Since+Jan+23+2024)">
 </div>
 
 
