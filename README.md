@@ -33,20 +33,23 @@
 
 <div align="center">
 
-  <img width="440px" src="https://github-readme-stats-five-rosy-65.vercel.app/api?username=atomoxetine&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&line_height=19&include_all_commits=true">
-  <img width="273px" src="https://github-readme-stats-five-rosy-65.vercel.app/api/top-langs?username=atomoxetine&theme=midnight-purple&layout=compact&hide_border=true&langs_count=16&exclude_repo=github-readme-streak-stats&bg_color=00000000">
+  <img width="440px" src="https://github-readme-stats-five-rosy-65.vercel.app/api?username=atomoxetine&show_icons=true&theme=prussian&hide_border=true&bg_color=00000000&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&line_height=19&include_all_commits=true">
+  <img width="273px" src="https://github-readme-stats-five-rosy-65.vercel.app/api/top-langs?username=atomoxetine&theme=prussian&layout=compact&hide_border=true&langs_count=14&exclude_repo=github-readme-streak-stats&bg_color=00000000">
 </div>
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ecru-phi.vercel.app?user=atomoxetine&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=550&background=00000000" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ecru-phi.vercel.app?user=atomoxetine&theme=prussian&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=550&background=00000000" alt="GitHub Streak" /></a>
 </div>
 <div align="center">
-  <img src="https://github-readme-stats-five-rosy-65.vercel.app/api/wakatime?username=atomoxetine&theme=midnight-purple&hide_border=true&bg_color=00000000&layout=compact&custom_title=WakaTime+Stats+(Since+Jan+23+2024)">
+  <a href="https://wakatime.com/@018d3462-350e-45de-9313-54c691215fd0"><img src="https://wakatime.com/badge/user/018d3462-350e-45de-9313-54c691215fd0.svg?style=for-the-badge" alt="Total time coded since Jan 23 2024" /></a>
+</div>
+<div align="center">
+  <img src="https://github-readme-stats-five-rosy-65.vercel.app/api/wakatime?username=atomoxetine&theme=prussian&hide_border=true&bg_color=00000000&line_height=19&layout=default&custom_title=WakaTime+Stats+(Since+Jan+23+2024)">
 </div>
 
 
 <div align="center">
-  <img src="https://github-profile-trophy-omega.vercel.app/?username=atomoxetine&theme=darkhub&margin-w=14&margin-w=15&no-bg=true&no-frame=true&row=3&column=6">
+  <img src="https://github-profile-trophy-omega.vercel.app/?username=atomoxetine&theme=onestar&margin-w=16&margin-w=15&no-bg=true&no-frame=true&row=3&column=6">
 </div>
 
 
@@ -55,11 +58,11 @@
 ### 💻 Experiences
 
 ##### Languages
-C, C++, Rust, Kotlin, Java, Javascript, Typescript, Lua, C#, HTML, CSS, SQL, Bash, PHP
+C, C++, Rust, Kotlin, Java, Javascript, Typescript, Lua, C#, HTML, CSS, SQL, Bash, Python PHP
 
 ##### General Technologies
 
-Nodejs, React, Nextjs, Astro, Bootstrap, Tailwind CSS, MySQL, PostgreSQL, MongoDB, Redis, Spring, Ktor, Docker
+Nodejs, React, Nextjs, Astro, Bootstrap, Tailwind CSS, MySQL, PostgreSQL, MongoDB, Redis, Spring, Ktor, Docker, Express, Fastify, Caddy, Traefik
 
 #
 
