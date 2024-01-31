@@ -44,8 +44,8 @@
   <a href="https://wakatime.com/@018d3462-350e-45de-9313-54c691215fd0"><img src="https://wakatime.com/badge/user/018d3462-350e-45de-9313-54c691215fd0.svg?style=for-the-badge" alt="Total time coded since Jan 23 2024" /></a>
 </div>
 <div align="center">
-  <img src="https://github-profile-trophy-omega.vercel.app/?username=atomoxetine&theme=onestar&no-bg=true&no-frame=true&row=4&column=2">
-  <img src="https://github-readme-stats-five-rosy-65.vercel.app/api/wakatime?username=atomoxetine&theme=prussian&hide_border=true&bg_color=00000000&line_height=25&layout=default&custom_title=WakaTime+Stats+(Since+Jan+23+2024)&langs_count=15">
+  <img width="200px" src="https://github-profile-trophy-omega.vercel.app/?username=atomoxetine&theme=onestar&no-bg=true&no-frame=true&row=4&column=2">
+  <img width="500px" src="https://github-readme-stats-five-rosy-65.vercel.app/api/wakatime?username=atomoxetine&theme=prussian&hide_border=true&bg_color=00000000&line_height=25&layout=default&custom_title=WakaTime+Stats+(Since+Jan+23+2024)&langs_count=14">
 </div>
 
 #
