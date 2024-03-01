@@ -53,7 +53,7 @@
 ### 💻 Experiences
 
 ##### Languages
-C, C++, Rust, Kotlin, Java, Javascript, Typescript, Lua, C#, HTML, CSS, SQL, Bash, Python PHP
+C, C++, Rust, Kotlin, Java, Javascript, Typescript, Lua, C#, HTML, CSS, SQL, Bash, Python
 
 ##### General Technologies
 
