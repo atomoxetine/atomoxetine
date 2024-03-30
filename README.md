@@ -14,14 +14,15 @@
 <div>
   <img src="https://github.com/atomoxetine/atomoxetine/assets/132525922/26c88083-9b39-4ba8-a709-10e3e3364844" height="200" align="right">
   <div>
-    
+
   ### 💭 A few things about me
-  
+
   - 💊 When administered orally, my absolute bioavailability is of 63% for extensive metabolizers and 94% for poor metabolizers
   - 🏳️‍⚧️ Pronouns: `she/her`
   - 🇧🇷 I'm from [São Paulo, Brasil](https://en.wikipedia.org/wiki/S%C3%A3o_Paulo)
   - ♥️ My favourite languages are Rust and Kotlin
-  - 📫 You can reach me at: <a href="mailto:emilybertollo@outlook.com">emilybertollo@outlook.com</a>
+  - 📫 You can reach me at: <a
+    href="mailto:snri.atomoxetine@proton.me">snri.atomoxetine@proton.me</a>
   - 📺 My favourite show is Mahou Shoujo Madoka★Magica
 
   </div>
