@@ -30,27 +30,6 @@
 
 #
 
-### 📊 Statistics
-
-<div align="center">
-
-  <img width="440px" src="https://github-readme-stats-five-rosy-65.vercel.app/api?username=atomoxetine&show_icons=true&theme=prussian&hide_border=true&bg_color=00000000&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&line_height=19&include_all_commits=true">
-  <img width="273px" src="https://github-readme-stats-five-rosy-65.vercel.app/api/top-langs?username=atomoxetine&theme=prussian&layout=compact&hide_border=true&langs_count=14&exclude_repo=github-readme-streak-stats&bg_color=00000000">
-</div>
-
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ecru-phi.vercel.app?user=atomoxetine&theme=prussian&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=550&background=00000000" alt="GitHub Streak" /></a>
-</div>
-<div align="center">
-  <a href="https://wakatime.com/@018d3462-350e-45de-9313-54c691215fd0"><img src="https://wakatime.com/badge/user/018d3462-350e-45de-9313-54c691215fd0.svg?style=for-the-badge" alt="Total time coded since Jan 23 2024" /></a>
-</div>
-<div align="center">
-  <img width="200px" src="https://github-profile-trophy-omega.vercel.app/?username=atomoxetine&theme=onestar&no-bg=true&no-frame=true&row=4&column=2">
-  <img width="500px" src="https://github-readme-stats-five-rosy-65.vercel.app/api/wakatime?username=atomoxetine&theme=prussian&hide_border=true&bg_color=00000000&line_height=25&layout=default&custom_title=WakaTime+Stats+(Since+Jan+23+2024)&langs_count=14">
-</div>
-
-#
-
 ### 💻 Experiences
 
 ##### Languages
