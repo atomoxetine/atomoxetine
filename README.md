@@ -30,17 +30,6 @@
 
 #
 
-### 💻 Experiences
-
-##### Languages
-C, C++, Rust, Kotlin, Java, Javascript, Typescript, Lua, C#, HTML, CSS, SQL, Bash, Python
-
-##### General Technologies
-
-Nodejs, React, Nextjs, Astro, Bootstrap, Tailwind CSS, MySQL, PostgreSQL, MongoDB, Redis, Spring, Ktor, Docker, Express, Fastify, Caddy, Traefik
-
-#
-
 ### 👥 Meet my Friends
 
 - [oestradiol](https://github.com/oestradiol/)
