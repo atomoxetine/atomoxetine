@@ -3,6 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=Hi%20There%20:3&animation=twinkling&fontColor=8f2aaf&fontAlign=25&fontAlignY=55&desc=Welcome%20to%20my%20github%20profile&descAlign=28&descAlignY=92">
 
 <div align="right">
+  <a href="https://ko-fi.com/T6T012V93H"><img src="https://ko-fi.com/img/githubbutton_sm.svg"></a>
   <a href="https://wakatime.com/@018d3462-350e-45de-9313-54c691215fd0"><img src="https://wakatime.com/badge/user/018d3462-350e-45de-9313-54c691215fd0.svg?style=for-the-badge"></a>
   <img src="https://komarev.com/ghpvc/?username=atomoxetine&style=for-the-badge">
 </div>
@@ -22,6 +23,7 @@ I'm Emily, a fullstack developer, enjoyer of Rust among other things :3
 - 📫 You can reach me at: snri.atomoxetine@proton.me
 - 📺 My favourite show is `Mahou Shoujo Madoka★Magica`
 ```
+
 
 <div>
   <img align="right" src="https://github.com/user-attachments/assets/471edd7b-5cf7-4169-a025-fcc002f576df" width="287">
