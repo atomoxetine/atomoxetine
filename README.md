@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=transparent&height=80&text=Hi%20There%20:3&animation=twinkling&fontColor=8f2aaf&fontAlign=20&fontAlignY=65&desc=Welcome%20to%20my%20github%20profile&descAlign=24&descAlignY=90)
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=Hi%20There%20:3&animation=twinkling&fontColor=8f2aaf&fontAlign=25&fontAlignY=65&desc=Welcome%20to%20my%20github%20profile&descAlign=28&descAlignY=92">
 
 <div align="right">
   <a href="https://wakatime.com/@018d3462-350e-45de-9313-54c691215fd0"><img src="https://wakatime.com/badge/user/018d3462-350e-45de-9313-54c691215fd0.svg?style=for-the-badge"></a>
