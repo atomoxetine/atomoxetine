@@ -16,7 +16,7 @@ I'm Emily, a fullstack developer, enjoyer of Rust among other things :3
 
 - 💊 When administered orally, my absolute bioavailability
   is of 63% for extensive metabolizers and 94% for poor metabolizers
-- 🏳️‍⚧️ Pronouns: `she/her`
+- 🏳️‍⚧️ Pronouns: `she/they/it`
 - 🇧🇷 I'm from `São Paulo, Brasil`
 - ♥️ My favourite language is Rust 🦀
 - 🌐 I'm currently a speaker of English and Portuguese
