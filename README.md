@@ -18,7 +18,7 @@ I'm Emily, a fullstack developer, enjoyer of Rust among other things :3
   is of 63% for extensive metabolizers and 94% for poor metabolizers
 - 🏳️‍⚧️ Pronouns: `she/they/it`
 - 🇧🇷 I'm from `São Paulo, Brasil`
-- ♥️ My favourite language is Rust 🦀
+- 💜 My favourite language is Rust 🦀
 - 🌐 I'm currently a speaker of English and Portuguese
 - 📫 You can reach me at: snri.atomoxetine@proton.me
 - 📺 My favourite show is `Mahou Shoujo Madoka★Magica`
