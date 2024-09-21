@@ -30,7 +30,7 @@ I'm Emily, a fullstack developer, enjoyer of Rust among other things :3
   <div align="left">
     <img src="https://readme-stats-eta-six.vercel.app/api?username=atomoxetine&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&show=reviews,prs_merged" width="390">
     <br>
-    <img src="https://readme-stats-eta-six.vercel.app/api/wakatime/?username=atomoxetine&theme=midnight-purple&hide_border=true&layout=compact&hide_progress=true&langs_count=20" width="390">
+    <img src="https://readme-stats-eta-six.vercel.app/api/wakatime/?username=atomoxetine&theme=midnight-purple&hide_border=true&layout=compact&hide_progress=true&langs_count=20&custom_title=Wakatime%20Stats%20(Since%202024-01-23)" width="390">
   </div>
 </div>
 
