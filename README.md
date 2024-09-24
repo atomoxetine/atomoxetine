@@ -1,6 +1,6 @@
 
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=100&text=Hi%20There%20:3&animation=twinkling&fontColor=8f2aaf&fontAlign=25&fontAlignY=55&desc=Welcome%20to%20my%20github%20profile&descAlign=28&descAlignY=92">
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=110&text=Hi%20There%20:3&animation=twinkling&fontColor=8f2aaf&fontAlign=25&fontAlignY=55&desc=Welcome%20to%20my%20github%20profile&descAlign=28&descAlignY=90">
 
 <div align="right">
   <a href="https://ko-fi.com/T6T012V93H"><img src="https://ko-fi.com/img/githubbutton_sm.svg"></a>
@@ -113,3 +113,7 @@ I'm Emily, a fullstack developer, enjoyer of Rust among other things :3
 - [oestradiol](https://github.com/oestradiol/)
 - [aripiprazole](https://github.com/aripiprazole/)
 - [ohemilyy](https://github.com/ohemilyy/)
+
+#
+
+#### 💜 A feeling more passionate than hope, far deeper than despair
