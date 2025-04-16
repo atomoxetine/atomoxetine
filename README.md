@@ -15,7 +15,7 @@ I'm Emily, a fullstack developer, enjoyer of Rust among other things :3
 # 💭 A few things about me
 
 - 🍏 I really like green apples
-- 🏳️‍⚧️ Pronouns: `it/they/shee`
+- 🏳️‍⚧️ Pronouns: `it/they/she`
 - 🇧🇷 I'm from `São Paulo, Brasil`
 - 💜 My favourite language is Rust 🦀
 - 🌐 I'm currently a speaker of English and Portuguese
